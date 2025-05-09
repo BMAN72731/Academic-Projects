@@ -17,7 +17,8 @@ Data Loss Prevention was what I selected for my capstone. It is a proposal to an
 - Role-based access control
 - Efficient deliverable metrics, scheduling and planning
 
-https://docs.google.com/document/d/1JE9XgWM9ilmfH-Rq0WOdgb6Tf6kJjVisApPscla6pU4/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1JE9XgWM9ilmfH-Rq0WOdgb6Tf6kJjVisApPscla6pU4/edit?usp=sharing" target="_blank">Link to project source</a>
+
 
 ## Vulnerability Analysis and Report
 
@@ -34,7 +35,7 @@ Wireshark and Nmap were used to scan a virtual machine and identify all relevent
 - Nmap
 - Wireshark
 
-https://docs.google.com/document/d/1PvrdRPRFCn32q_g05wtW4hwetJ_lo_NQEONHD2bULpc/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1PvrdRPRFCn32q_g05wtW4hwetJ_lo_NQEONHD2bULpc/edit?usp=sharing" target="_blank">Link to project source</a>
 
 ## Data Forensic Analysis
 
@@ -49,3 +50,5 @@ I was tasked with running autopsy to determine if an NDA was violated in a compa
 
 ### Tools
 - Autopsy
+
+<a href="https://docs.google.com/document/d/1mQnosjc9SgW5fXthZ5FritA-_wI4JB9ZjZmUeYoApQA/edit?usp=sharing" target="_blank">Link to project source</a>
